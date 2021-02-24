@@ -41,14 +41,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thresholdsoft/zerocode-docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/thresholdsoft/zerocode-docs">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/thresholdsoft/zerocode-docs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/thresholdsoft/zerocode-docs/issues">Request Feature</a>
   </p>
 </p>
 
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/thresholdsoft/zerocode-docs.git
    ```
 2. Install NPM packages
    ```sh
@@ -138,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thresholdsoft/zerocode-docs/issues) for a list of proposed features (and known issues).
 
 
 
@@ -167,7 +167,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/thresholdsoft/zerocode-docs](https://github.com/thresholdsoft/zerocode-docs)
 
 
 
