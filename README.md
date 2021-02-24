@@ -24,11 +24,9 @@
     <a href="https://github.com/thresholdsoft/zerocode-docs/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/thresholdsoft/zerocode-docs">View Demo</a>
+    <a href="https://www.zeroco.de">View Demo</a> 
     ·
-    <a href="https://github.com/thresholdsoft/zerocode-docs/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/thresholdsoft/zerocode-docs/issues">Request Feature</a>
+    <a href="https://www.zeroco.de/super100">Super 100</a> 
   </p>
 </p>
 
