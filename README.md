@@ -21,7 +21,7 @@
 
   <p align="center"> 
     <br />
-    <a href="https://github.com/thresholdsoft/zerocode-docs/wiki"><strong>Explore the docs »</strong></a>
+    <a target="_blank" href="https://github.com/thresholdsoft/zerocode-docs/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a target="_blank" href="https://www.zeroco.de">View Demo</a> 
