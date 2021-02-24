@@ -17,13 +17,11 @@
   <a href="https://github.com/thresholdsoft/zerocode-docs">
     <img src="images/zerocode-logo.png" alt="Logo"  >
   </a>
+ 
 
-  <h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
+  <p align="center"> 
     <br />
-    <a href="https://github.com/thresholdsoft/zerocode-docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thresholdsoft/zerocode-docs/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/thresholdsoft/zerocode-docs">View Demo</a>
