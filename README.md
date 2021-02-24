@@ -184,15 +184,15 @@ Project Link: [https://github.com/thresholdsoft/zerocode-docs](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/thresholdsoft/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/thresholdsoft/zerocode-docs.svg?style=for-the-badge
 [contributors-url]: https://github.com/thresholdsoft/zerocode-docs/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/thresholdsoft/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/thresholdsoft/zerocode-docs.svg?style=for-the-badge
 [forks-url]: https://github.com/thresholdsoft/zerocode-docs/network/members
-[stars-shield]: https://img.shields.io/github/stars/thresholdsoft/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/thresholdsoft/zerocode-docs.svg?style=for-the-badge
 [stars-url]: https://github.com/thresholdsoft/zerocode-docs/stargazers
-[issues-shield]: https://img.shields.io/github/issues/thresholdsoft/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/thresholdsoft/zerocode-docs.svg?style=for-the-badge
 [issues-url]: https://github.com/thresholdsoft/zerocode-docs/issues
-[license-shield]: https://img.shields.io/github/license/thresholdsoft/repo.svg?style=for-the-badge
-[license-url]: https://github.com/thresholdsoft/zerocode-docs/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/thresholdsoft/zerocode-docs.svg?style=for-the-badge
+[license-url]: https://github.com/thresholdsoft/zerocode-docs/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/thresholdsoft
